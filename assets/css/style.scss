@@ -3,6 +3,7 @@
 ---
 
 @import "{{ site.theme }}";
+.rpad {padding-right: 1em;}
 
 .wrapper {
   width: 1200px !important;
@@ -16,4 +17,8 @@ section {
   width: 900px;
   float: right;
   padding-bottom: 50px;
+}
+
+body {
+  min-height: 100vw;
 }
