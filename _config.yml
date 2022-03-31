@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: PROJECT:CLASSROOM
 description: Osnove programiranja kroz programski jezik C
-logo: https://www.classroom.rs/wp-content/uploads/2022/03/cropped-PROJECTCLASSROOM-200-%C3%97-80-px.png.webp
+#logo: https://www.classroom.rs/wp-content/uploads/2022/03/cropped-PROJECTCLASSROOM-200-%C3%97-80-px.png.webp
 sidebars:
   - home-page
   - label: Section One
