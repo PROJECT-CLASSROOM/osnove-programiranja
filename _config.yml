@@ -9,3 +9,5 @@ sidebars:
       - document-one
       - document-two
       - document-three
+sass:
+    style: compressed
